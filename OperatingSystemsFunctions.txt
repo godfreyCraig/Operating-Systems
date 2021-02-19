@@ -1,2 +1,5 @@
 File Management:
 The operating system provides a directory structure so that files can be organized. The operating system also provides a way to copy, move, and rename files.
+
+GUI environment:
+The operating system provides an interface so users can use a keyboard or mouse to open programs and manipulate data.
