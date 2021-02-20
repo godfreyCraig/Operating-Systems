@@ -3,3 +3,6 @@ The operating system provides a directory structure so that files can be organiz
 
 GUI environment:
 The operating system provides an interface so users can use a keyboard or mouse to open programs and manipulate data.
+
+Device Manager:
+Connects to and controls all devices connected to the computer.
